@@ -38,7 +38,8 @@ This part (`classification.R` script) produces classification models for sensory
 * Measures the success rate of each model over multiple iterations and presents the results in a plot for comparison purposes where necessary.
 * Create a plot showing the importance of each variable for the prediction (if applicable).
 
-## 3. Regression models
+
+##  3. Regression models
 
 In part three, `regression.R` script generates threeregression models (Linear Model(LM), kNN, Random Forests) for TVC & Pseudomonas Counts by Enose data, and TVC & Pseudomonas Counts by HPLC data. For each model:
 * It calculates the RMSE for each model.
