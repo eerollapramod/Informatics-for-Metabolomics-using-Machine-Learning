@@ -11,7 +11,7 @@ This project contains three seperate R scripts;
 You will need the `R 3.6.0` or later for some packages to run.
 
 #### Dataset
-Four separate CSV files: Bacterial_Counts.csv, Enose_data.csv, HPLC_data.csv and Sensory_score.csv are attached within the repository. These data were collected during an experiment in which fresh mince beef fillets were stored under different temperatures (0°C, 5°C, 10°C, 15°C, 20°C). Sampling was taking place at regular time intervals and the samples were subjected to enose profiling, solvent extraction and HPLC analysis and plate counting to account for Total Viable Counts (TVC) and Pseudomonas. In addition a taste panel was scoring the samples based on visual appearance and odour.
+Four separate CSV files: `Bacterial_Counts.csv, Enose_data.csv, HPLC_data.csv and Sensory_score.csv` are attached within the repository. These data were collected during an experiment in which fresh mince beef fillets were stored under different temperatures (0°C, 5°C, 10°C, 15°C, 20°C). Sampling was taking place at regular time intervals and the samples were subjected to enose profiling, solvent extraction and HPLC analysis and plate counting to account for Total Viable Counts (TVC) and Pseudomonas. In addition a taste panel was scoring the samples based on visual appearance and odour.
 
 Sample ids (e.g. 0F4) are unique and can be used to match rows across the four files. The first number corresponds to the temperature, “F” stands for fillet, and the last number represents the sampling time point (hours). “F1a” and “F1b” are the two replicates sampled at baseline (i.e. on arrival to the lab).
 
