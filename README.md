@@ -15,7 +15,7 @@ Four separate CSV files: `Bacterial_Counts.csv, Enose_data.csv, HPLC_data.csv an
 
 Sample ids (e.g. 0F4) are unique and can be used to match rows across the four files. The first number corresponds to the temperature, “F” stands for fillet, and the last number represents the sampling time point (hours). “F1a” and “F1b” are the two replicates sampled at baseline (i.e. on arrival to the lab).
 
-The column names in the HPLC_data.csv represent the major peaks present in the samples which are denoted by their retention time (min). In the Sensory _score.csv the column ‘sensory’ is a categorical variable representing the sensory score attributed by the taste panel. In this case, sensory class 1 denotes fresh, class 2 denotes semi-fresh (just acceptable) and 3 denotes spoilage (1 = fresh, 2=semi-fresh, 3=spoiled).
+The column names in the `HPLC_data.csv` represent the major peaks present in the samples which are denoted by their retention time (min). In the `Sensory _score.csv` the column ‘sensory’ is a categorical variable representing the sensory score attributed by the taste panel. In this case, sensory class 1 denotes fresh, class 2 denotes semi-fresh (just acceptable) and 3 denotes spoilage (1 = fresh, 2=semi-fresh, 3=spoiled).
 
 
 ## 1. Data Preparation and Exploratory analysis
